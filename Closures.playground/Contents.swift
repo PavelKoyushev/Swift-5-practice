@@ -1,6 +1,6 @@
 import UIKit
 
-var str = "Hello, playground"
+var str = "Hello, playground!"
 
 var numbers = [20, 19, 7, 12]
 
